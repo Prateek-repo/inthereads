@@ -1,0 +1,14 @@
+.blogItem h2, .blogItem p{
+cursor:pointer;
+display:flex;
+align-items: center;
+
+}
+
+.blogItem h2{
+    justify-content: flex-start;
+}
+
+.blogItem h2{
+    justify-content: center;
+}

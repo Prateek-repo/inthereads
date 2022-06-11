@@ -11,15 +11,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <nav className={styles.navbar}>
-        <ul>
-        <span>In The Reads</span>
-          <li>Home</li>
-          <li>Blog</li>
-          <li>About</li>
-          <li>Contact Us</li>
-        </ul>
-      </nav>
+      
 
       <main className={styles.main}>
         <h1 className={styles.title}>

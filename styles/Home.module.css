@@ -1,5 +1,5 @@
 .container {
-  padding: 0 2rem;
+  padding: 0 12rem;
 }
 
 .main {
@@ -8,7 +8,7 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
 }
 
@@ -108,30 +108,6 @@
   margin-left: 0.5rem;
 }
 
-.navbar ul{
-  display: flex;
-  justify-content: center;
-  list-style: none;
-  font-weight: 500;
-}
-
-.navbar li {
-  margin: 1rem;
-  
-}
-
-.navbar ul li:hover{
-  color:grey;
-  cursor: pointer;
-  text-decoration-line: underline;
-  
-}
-
-
-.navbar span {
-  margin: 1rem;
-  font-weight: bold;
-}
 
 @media (max-width: 600px) {
   .grid {
