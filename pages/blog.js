@@ -10,7 +10,7 @@ const Blog = () => {
 
         <Link href={'/blog/how-to-learn-javascript-in-2022'}>
             <div className={blogStyles.blogItem}>
-            <h2>How to learn javascript in 2022 ?</h2>
+            <h1>How to learn javascript in 2022 ?</h1>
             <p>Ut officia nulla magna ut qui velit dolor laborum cupidatat consequat mollit aliqua voluptate. Est ea quis id mollit dolor. Adipisicing ea duis exercitation consectetur nostrud dolore officia et esse enim qui magna enim. Sunt labore consequat aute aliqua magna cupidatat in esse. Excepteur ad incididunt velit qui duis. Consequat occaecat ullamco non et tempor aliqua velit.</p>
             </div>
         </Link>

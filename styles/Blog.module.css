@@ -1,14 +1,14 @@
-.blogItem h2, .blogItem p{
+.blogItem h1, .blogItem p{
 cursor:pointer;
 display:flex;
 align-items: center;
 
 }
 
-.blogItem h2{
+.blogItem h1{
     justify-content: flex-start;
 }
 
-.blogItem h2{
+.blogItem h1{
     justify-content: center;
 }
